@@ -91,6 +91,11 @@ View all your files (and what's using that 'Other' space visualised into squares
 
 [External Site - Sourceforge](http://grandperspectiv.sourceforge.net/)
 
+## Visual Studio Code
+A good place to code, especially for a newbie like me
+
+[External Site - Microsoft](https://code.visualstudio.com/download/)
+
 
 ## Rewind	
 A personalised, locally running AI, with a free plan!	
