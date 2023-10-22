@@ -3,6 +3,11 @@ A list of the apps I immediately install on any Mac I own!
 
 I have a full list [here](https://docs.google.com/spreadsheets/d/1QwpL1hjc878nSpuWTZwgIOyCc4r4pMusmxD6eC2UIXA/edit?usp=sharing), but I need to do an audit
 
+## Arc
+The browser I use for all work stuff - Chromium and just innovative in every way
+
+[External Site - The Browser Company](https://arc.net)
+
 ## Rocket
 Type emojis using a colon (:) anywhere e.g. `:rocket:` = 🚀	
 
@@ -90,7 +95,7 @@ View all your files (and what's using that 'Other' space visualised into squares
 ## Rewind	
 A personalised, locally running AI, with a free plan!	
 
-[External Site - Rewind](https://www.rewind.ai))
+[External Site - Rewind](https://www.rewind.ai)
 
 
 ## Aerial	
