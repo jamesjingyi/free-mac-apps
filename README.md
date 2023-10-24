@@ -8,6 +8,11 @@ The browser I use for all work stuff - Chromium and just innovative in every way
 
 [External Site - The Browser Company](https://arc.net)
 
+## Velja
+The only way to juggle Safari and Arc in the best way - choose where links and apps open!
+
+[App Store - Velja](https://apps.apple.com/us/app/velja/id1607635845?mt=12)
+
 ## Rocket
 Type emojis using a colon (:) anywhere e.g. `:rocket:` = 🚀	
 
