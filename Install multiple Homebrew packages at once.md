@@ -6,7 +6,11 @@ Before starting, ensure Homebrew is installed correctly by typing `brew`. If it 
 
 2. Go to `Format` → `Make Plain Text`
 
+![Menu bar selection of Format, Make Plain Text](https://i.imgur.com/d4AhNqi.png)
+
 3. Add in the syntax after `brew install` in the Formulae, each on a new line (e.g. `brew install --cask utm` becomes `--cask utm` and `brew install macfuse` becomes `macfuse`)
+
+![An example of what a file might look like once formulae has been added](https://i.imgur.com/hPQUzSx.png)
 
 4. Save this as `packages.txt` somewhere (I put it in my Downloads folder)
 
