@@ -17,7 +17,10 @@ I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1h
 | `Raycast` | A much better Spotlight, with lots of 3rd party integrations | External Site - [Raycast](http://raycast.com) |
 | `shottr` | Great screenshots and OCR text | External Site - [shottr](https://shottr.cc/) |
 | `Rocket` | Type emojis using a colon (:) anywhere e.g. `:rocket:` = 🚀 | External Site - [Matthew Palmer](https://matthewpalmer.net/rocket/) |
+| `MeetingBar` | A menubar utility that shows your next meeting, lets you automate auto-joining, and create instant meetings | App Store - [MeetingBar](https://apps.apple.com/gb/app/meetingbar/id1532419400?mt=12) |
 | `UTM` | Securely run operating systems on your Mac in virutal machines | External Site - [UTM](https://mac.getutm.app) |
+| `VMware Fusion Pro` | Now free for personal use - run virtual machines on your Mac to securely emulate macOS, Windows, and Linux | External Site - [VMware Fusion Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Fusion) |
+| `Notion Calendar` | A really good, free calendar! | External Site - [Notion](https://www.notion.so/product/calendar/) |
 
 <br />
 
@@ -28,6 +31,8 @@ I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1h
 | `Hidden Bar` | Allows you to hide menu bar icons (replicates Bartender) | App Store - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) |
 | `Stats` | View stats about your system including CPU, remaining battery etc in your menu bar (like iStats) | Github - [Stats](https://github.com/exelban/stats) |
 | `The Unarchiver` | The best tool for opening .zip/.rar/.7z files | App Store - [The Unarchiver](https://apps.apple.com/gb/app/the-unarchiver/id425424353?mt=12) |
+| `Amphetamine` | Keep your Mac awake - even MacBooks with their lids closed! | App Store - [Amphetamine](https://apps.apple.com/gb/app/amphetamine/id937984704?mt=12) |
+| `DockDoor` | Preview your open windows by hovering apps in your dock | Github - [DockDoor](https://github.com/ejbills/DockDoor) |
 
 <br />
 
@@ -36,6 +41,7 @@ I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1h
 | App name | Description | Link |
 | :----------- | :----------- | :----------- |
 | `Arc` | The browser I use for all work stuff - Chromium and just innovative in every way | External Site - [The Browser Company](https://arc.net) |
+| `Firefox` | Open source, fast, and privacy focused; you know what this is! | External Site - [Mozilla](https://www.mozilla.org/firefox/) |
 | `Velja` | The only way to juggle Safari and Arc in the best way - choose where links and apps open! | App Store - [Velja](https://apps.apple.com/us/app/velja/id1607635845?mt=12) |
 
 <br />
@@ -46,6 +52,10 @@ I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1h
 | :----------- | :----------- | :----------- |
 | `Sublime Text` | A lightweight, really nice text editor | External Site - [Sublime Text](https://www.sublimetext.com/) |
 | `Visual Studio Code` | A good place to code, especially for a newbie like me | External Site - [Visual Studio (Microsoft)](https://code.visualstudio.com/download/) |
+| `Amazon Q` | <b>Turn off data sharing\* </b> Autocomplete for terminal, from AWS (requries a free AWS account) | External Site - [Amazon AWS](https://docs.aws.amazon.com/codewhisperer/latest/userguide/command-line-getting-started-installing.html) |
+
+\* In the Amazon Q app, go to Preferences > Advanced and turn off 'Share Amazon Q content with AWS' and 'Telemetry'
+More info: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/opt-out-IDE.html
 
 <br />
 
@@ -108,4 +118,3 @@ I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1h
 | App name | Description | Link |
 | :----------- | :----------- | :----------- |
 | `Rewind` | A personalised, locally running AI, with a free plan! | External Site - [Rewind](https://www.rewind.ai) |
-| `Aerial` | Want the screensavers from the Apple TV on your Mac? Look no further (no longer needed with Sonoma) | Github - [Aerial](https://aerialscreensaver.github.io/) |
