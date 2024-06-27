@@ -3,7 +3,9 @@ A list of the apps I immediately install on any Mac I own!
 
 I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1hjc878nSpuWTZwgIOyCc4r4pMusmxD6eC2UIXA/edit?usp=sharing), and I've just done an audit for 2024!
 
-> I also have a full breakdown of the different Shortcuts I use in iOS and watchOS - have a look [here](https://github.com/jamesjingyi/ios-shortcuts).
+> My other stuff:
+> * Shortcuts for iOS and watchOS [here](https://github.com/jamesjingyi/ios-shortcuts) (free ofc)
+> * My collection of free design references, resources, and more [here](https://jamesjingyi.notion.site/4b4d49a9c9814f90ac514a3df61e6dc8?v=5df075ab076c4690bc25525767da2d8e&pvs=4)
 
 
 ### Please add suggestions as [issues](https://github.com/jamesjingyi/free-mac-apps/issues)!
