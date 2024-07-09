@@ -30,7 +30,7 @@ I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1h
 
 | App name | Description | Link |
 | :----------- | :----------- | :----------- |
-| `Hidden Bar` | Allows you to hide menu bar icons (replicates Bartender) | App Store - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) |
+| `Ice` | A better way to hide menu bar icons (with options for a bar below menu bar!) See alternatives [here](https://procrastopossum.com/bartender-alternatives/) | GitHub - [Ice](https://github.com/jordanbaird/Ice) |
 | `Stats` | View stats about your system including CPU, remaining battery etc in your menu bar (like iStats) | Github - [Stats](https://github.com/exelban/stats) |
 | `The Unarchiver` | The best tool for opening .zip/.rar/.7z files | App Store - [The Unarchiver](https://apps.apple.com/gb/app/the-unarchiver/id425424353?mt=12) |
 | `Amphetamine` | Keep your Mac awake - even MacBooks with their lids closed! | App Store - [Amphetamine](https://apps.apple.com/gb/app/amphetamine/id937984704?mt=12) |
