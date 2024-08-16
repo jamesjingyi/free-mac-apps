@@ -4,13 +4,16 @@
 --cask stats
 --cask the-unarchiver
 --cask arc
+--cask firefox
 --cask sublime-text
 --cask visual-studio-code
 --cask codewhisperer
 --cask handbrake
 --cask imageoptim
 --cask notion-calendar
+jordanbaird-ice
 --cask onyx
+--cask app-cleaner
 --cask grandperspective
 --cask sublime-text
 --cask codewhisperer
@@ -24,3 +27,11 @@
 --cask codeedit
 --cask discord
 --cask miro
+--cask warp
+--cask codeedit
+--cask amazon-q
+--cask keka
+ffmpeg
+gh
+speedtest-cli
+bitwarden-cli
