@@ -20,7 +20,7 @@ mas
 --cask jordanbaird-ice
 --cask dockdoor
 --cask onyx
---cask app-cleaner
+--cask appcleaner
 --cask grandperspective
 --cask apparency
 --cask --no-quarantine syntax-highlight
@@ -32,12 +32,15 @@ mas
 --cask arc
 --cask firefox
 --cask zen-browser
+--cask safari-technology-preview
+--cask sf-symbols
 --cask sublime-text
 --cask visual-studio-code
 --cask sublime-text
 --cask codeedit
 --cask warp
 --cask amazon-q
+--cask chatgpt
 docker
 --cask github-copilot-for-xcode
 --cask notion-calendar
@@ -52,7 +55,8 @@ docker
 --cask adobe-creative-cloud
 --cask miro
 --cask balenaetcher
-
+--cask zed
+markedit
 
 
 

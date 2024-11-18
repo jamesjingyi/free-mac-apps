@@ -3,6 +3,11 @@ A list of the apps I immediately install on any Mac I own!
 
 I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1hjc878nSpuWTZwgIOyCc4r4pMusmxD6eC2UIXA/edit?usp=sharing), and I've just done an audit for 2024!
 
+If you want to install multiple packages at once (e.g. setting up a Mac) you might want to see [this file](Install%20multiple%20packages%20at%20once/Install%20multiple%20packages%20at%20once.md) or read my full guide [here](https://github.com/jamesjingyi/mac-setup).
+
+| 💡 I’ve just written a [guide](https://github.com/jamesjingyi/mac-setup) on how I set up a new Mac. You might find it useful. |
+| :----------- |
+
 > My other stuff:
 > * Shortcuts for iOS and watchOS [here](https://github.com/jamesjingyi/ios-shortcuts) (free ofc)
 > * My collection of free design references, resources, and more [here](https://jamesjingyi.notion.site/4b4d49a9c9814f90ac514a3df61e6dc8?v=5df075ab076c4690bc25525767da2d8e&pvs=4)
@@ -32,9 +37,10 @@ I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1h
 | :----------- | :----------- | :----------- |
 | `Ice` | A better way to hide menu bar icons (with options for a bar below menu bar!) See alternatives [here](https://procrastopossum.com/bartender-alternatives/) | GitHub - [Ice](https://github.com/jordanbaird/Ice) |
 | `Stats` | View stats about your system including CPU, remaining battery etc in your menu bar (like iStats) | Github - [Stats](https://github.com/exelban/stats) |
-| `The Unarchiver` | The best tool for opening .zip/.rar/.7z files | App Store - [The Unarchiver](https://apps.apple.com/gb/app/the-unarchiver/id425424353?mt=12) |
+| `The Unarchiver` | The best tool for opening .zip/.rar/.7z files (or [Keka](https://www.keka.io/en/)) | App Store - [The Unarchiver](https://apps.apple.com/gb/app/the-unarchiver/id425424353?mt=12) |
 | `Amphetamine` | Keep your Mac awake - even MacBooks with their lids closed! | App Store - [Amphetamine](https://apps.apple.com/gb/app/amphetamine/id937984704?mt=12) |
 | `DockDoor` | Preview your open windows by hovering apps in your dock | Github - [DockDoor](https://github.com/ejbills/DockDoor) |
+| `BoringNotch` | Make your Notch dynamic | Github - [BoringNotch](https://github.com/iamharshdev/TheBoringNotch) |
 
 <br />
 
@@ -44,6 +50,7 @@ I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1h
 | :----------- | :----------- | :----------- |
 | `Arc` | The browser I use for all work stuff - Chromium and just innovative in every way | External Site - [The Browser Company](https://arc.net) |
 | `Firefox` | Open source, fast, and privacy focused; you know what this is! | External Site - [Mozilla](https://www.mozilla.org/firefox/) |
+| `Zen Browser` | A new Firefox-based, privacy browser — defintiely give it a try! | External Site - [Zen Browser](https://zen-browser.app/) |
 | `Velja` | The only way to juggle Safari and Arc in the best way - choose where links and apps open! | App Store - [Velja](https://apps.apple.com/us/app/velja/id1607635845?mt=12) |
 
 <br />
@@ -54,6 +61,7 @@ I have a full Google Sheet [here](https://docs.google.com/spreadsheets/d/1QwpL1h
 | :----------- | :----------- | :----------- |
 | `Sublime Text` | A lightweight, really nice text editor | External Site - [Sublime Text](https://www.sublimetext.com/) |
 | `Visual Studio Code` | A good place to code, especially for a newbie like me | External Site - [Visual Studio (Microsoft)](https://code.visualstudio.com/download/) |
+| `Zed` | A high performance code editor to compete with VS Code | External Site - [Zed](https://zed.dev/) |
 | `Amazon Q` | <b>Turn off data sharing\* </b> Autocomplete for terminal, from AWS (requries a free AWS account) | External Site - [Amazon AWS](https://docs.aws.amazon.com/codewhisperer/latest/userguide/command-line-getting-started-installing.html) |
 
 \* In the Amazon Q app, go to Preferences > Advanced and turn off 'Share Amazon Q content with AWS' and 'Telemetry'
@@ -94,6 +102,7 @@ More info: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/opt-out-IDE.
 | App name | Description | Link |
 | :----------- | :----------- | :----------- |
 | `ImageOptim` | Strip out non-essential data in images and reduce their file sizes, or enable minification to compress them | External Site - [ImageOptim](https://imageoptim.com/mac) |
+| `Freescaler` | Simple free and open source tool used to upscale your low resolution images using advanced Al models | App Store - [Freescaler](https://apps.apple.com/gb/app/freescaler/id6443796196?mt=12) |
 
 <br />
 
@@ -102,6 +111,15 @@ More info: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/opt-out-IDE.
 | App name | Description | Link |
 | :----------- | :----------- | :----------- |
 | `Notion` | Notes but on a different level - my life is here! | External Site - [Notion](https://www.notion.so/) |
+| `MarkEdit` | A great free markdown editor | Github - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) |
+
+<br />
+
+# ✨ AI/LLM tools
+
+| App name | Description | Link |
+| :----------- | :----------- | :----------- |
+| `noScribe` | Use Whisper and pyannote locally to transcribe and perform diarization on your meetings | Github - [noScribe](https://github.com/kaixxx/noScribe) |
 
 <br />
 
