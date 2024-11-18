@@ -8,16 +8,28 @@ Before starting, ensure Homebrew is installed correctly by typing `brew`. If it 
 
 ![Menu bar selection of Format, Make Plain Text](https://i.imgur.com/d4AhNqi.png)
 
-3. Add in the syntax after `brew install` in the Formulae, each on a new line (e.g. `brew install --cask utm` becomes `--cask utm` and `brew install macfuse` becomes `macfuse`) — An example file can be found [here](https://github.com/jamesjingyi/free-mac-apps/blob/b59b68026b1604ad9f99f0fcebe7f274d81963c6/Install%20multiple%20Homebrew%20packages/packages.txt)
+3. Add in the syntax after `brew install` in the Formulae, each on a new line (e.g. `brew install --cask utm` becomes `--cask utm` and `brew install macfuse` becomes `macfuse`) — An example file can be found [here](https://github.com/jamesjingyi/free-mac-apps/blob/8e240a7e5623517ede206a49a88604399e302762/Install%20multiple%20packages%20at%20once/packages.txt)
 
 
 ![An example of what a file might look like once formulae has been added](https://i.imgur.com/hPQUzSx.png)
 
 4. Save this as `packages.txt` somewhere (I put it in my Downloads folder)
 
-5. Open Terminal and type `brew install $(cat`, then to avoid having to find the file, drag in your `packages.txt` file. Close this command with a `)` (I used the Downloads folder so my final command looked like this: `brew install $(cat /Users/jamesjingyi/Downloads/packages.txt)`)
+5. Open Terminal `cd` to your `Downloads` folder:
 
-6. Let Homebrew do its magic!
+```
+cd Downloads/
+```
+
+7. Then install all the packages recursively in `packages.txt` by running the command:
+
+```
+brew install $(grep -v '^--cask' packages.txt) && brew install --cask $(grep '^--cask' packages.txt | sed 's/^--cask //')
+```
+
+> `brew install` can install multiple packages at once by just queueing them up, one after another (e.g. `brew install gh bitwarden-cli`), however has to install `cask` and `non-cask` packages separately. The above command separates this into two commands.
+
+8. Let Homebrew do its magic!
 
 # Install multiple Mac App Store packages at once
 
