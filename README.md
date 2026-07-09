@@ -65,7 +65,7 @@ If you want to install multiple packages at once (e.g. setting up a Mac) you mig
 | `Sublime Text` | A lightweight, really nice text editor | External Site - [Sublime Text](https://www.sublimetext.com/) |
 | `Visual Studio Code` | A good place to code, especially for a newbie like me | External Site - [Visual Studio (Microsoft)](https://code.visualstudio.com/download/) |
 | `Zed` | A high performance code editor to compete with VS Code | External Site - [Zed](https://zed.dev/) |
-| `Amazon Q` | <b>Turn off data sharing\* </b> Autocomplete for terminal, from AWS (requries a free AWS account) | External Site - [Amazon AWS](https://docs.aws.amazon.com/codewhisperer/latest/userguide/command-line-getting-started-installing.html) |
+| `Kiro CLI` | <b>Turn off data sharing\* </b> Autocomplete for terminal, from AWS (requries a free AWS account) | External Site - [Kiro CLI](https://kiro.dev/cli/) |
 
 \* In the Amazon Q app, go to Preferences > Advanced and turn off 'Share Amazon Q content with AWS' and 'Telemetry'
 More info: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/opt-out-IDE.html
