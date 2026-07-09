@@ -28,6 +28,7 @@ If you want to install multiple packages at once (e.g. setting up a Mac) you mig
 | `UTM` | Securely run operating systems on your Mac in virutal machines | External Site - [UTM](https://mac.getutm.app) |
 | `VMware Fusion Pro` | Now free for personal use - run virtual machines on your Mac to securely emulate macOS, Windows, and Linux | External Site - [VMware Fusion Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Fusion) |
 | `Notion Calendar` | A really good, free calendar! | External Site - [Notion](https://www.notion.so/product/calendar/) |
+| `Claude` | Ok, so kinda SaaS but my fav Ai right now... | External Site - [Claude](https://claude.ai/) |
 
 <br />
 
@@ -35,7 +36,7 @@ If you want to install multiple packages at once (e.g. setting up a Mac) you mig
 
 | App name | Description | Link |
 | :----------- | :----------- | :----------- |
-| `Ice` | A better way to hide menu bar icons (with options for a bar below menu bar!) See alternatives [here](https://procrastopossum.com/bartender-alternatives/) | GitHub - [Ice](https://github.com/jordanbaird/Ice) |
+| `Thaw` | A better way to hide menu bar icons (with options for a bar below menu bar!) [Replaces Ice] | GitHub - [Thaw](https://github.com/stonerl/Thaw) |
 | `Stats` | View stats about your system including CPU, remaining battery etc in your menu bar (like iStats) | Github - [Stats](https://github.com/exelban/stats) |
 | `The Unarchiver` | The best tool for opening .zip/.rar/.7z files (or [Keka](https://www.keka.io/en/)) | App Store - [The Unarchiver](https://apps.apple.com/gb/app/the-unarchiver/id425424353?mt=12) |
 | `Amphetamine` | Keep your Mac awake - even MacBooks with their lids closed! | App Store - [Amphetamine](https://apps.apple.com/gb/app/amphetamine/id937984704?mt=12) |
@@ -48,6 +49,7 @@ If you want to install multiple packages at once (e.g. setting up a Mac) you mig
 
 | App name | Description | Link |
 | :----------- | :----------- | :----------- |
+| `Helium` | A better Chrome | External Site — [Helium](https://helium.computer) |
 | `Arc` | The browser I use for all work stuff - Chromium and just innovative in every way | External Site - [The Browser Company](https://arc.net) |
 | `Firefox` | Open source, fast, and privacy focused; you know what this is! | External Site - [Mozilla](https://www.mozilla.org/firefox/) |
 | `Zen Browser` | A new Firefox-based, privacy browser — defintiely give it a try! | External Site - [Zen Browser](https://zen-browser.app/) |
@@ -59,6 +61,7 @@ If you want to install multiple packages at once (e.g. setting up a Mac) you mig
 
 | App name | Description | Link |
 | :----------- | :----------- | :----------- |
+| `Ghostty` | The best terminal 👻 | External Site - [Ghostty](https://ghostty.org) |
 | `Sublime Text` | A lightweight, really nice text editor | External Site - [Sublime Text](https://www.sublimetext.com/) |
 | `Visual Studio Code` | A good place to code, especially for a newbie like me | External Site - [Visual Studio (Microsoft)](https://code.visualstudio.com/download/) |
 | `Zed` | A high performance code editor to compete with VS Code | External Site - [Zed](https://zed.dev/) |
