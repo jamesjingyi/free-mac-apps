@@ -129,6 +129,7 @@ More info: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/opt-out-IDE.
 | :----------- | :----------- | :----------- |
 | `Onyx` | General maintenance tasks for your Mac | External Site - [Titanium Software](https://www.titanium-software.fr/en/onyx.html) |
 | `AppCleaner` | Fully uninstall apps | External Site - [FreeMacSoft](https://freemacsoft.net/appcleaner/) |
+| `MacClean` | Native macOS disk cleaner for WeChat/QQ/WeCom media, Xcode caches, storage map; freemium Lifetime ¥98 (Thulem) | External Site - [Thulem](https://thulem.com/) |
 | `Grand Perspective` | FView all your files (and what's using that 'Other' space visualised into squares, and manage them | External Site - [Sourceforge](http://grandperspectiv.sourceforge.net/) |
 
 <br />
