@@ -39,6 +39,7 @@ If you want to install multiple packages at once (e.g. setting up a Mac) you mig
 | `Amphetamine` | Keep your Mac awake - even MacBooks with their lids closed! | App Store - [Amphetamine](https://apps.apple.com/gb/app/amphetamine/id937984704?mt=12) |
 | `DockDoor` | Preview your open windows by hovering apps in your dock | Github - [DockDoor](https://github.com/ejbills/DockDoor) |
 | `BoringNotch` | Make your Notch dynamic | Github - [BoringNotch](https://github.com/iamharshdev/TheBoringNotch) |
+| `LayoutKeeper` | Restores windows to their exact monitor, Space, and position when plugging an external display back in | Github - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) |
 
 <br />
 
