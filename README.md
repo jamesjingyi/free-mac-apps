@@ -138,3 +138,6 @@ More info: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/opt-out-IDE.
 | App name | Description | Link |
 | :----------- | :----------- | :----------- |
 | `Rewind` | A personalised, locally running AI, with a free plan! | External Site - [Rewind](https://www.rewind.ai) |
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Free and open-source Now Playing widget beside the Mac Dock.
